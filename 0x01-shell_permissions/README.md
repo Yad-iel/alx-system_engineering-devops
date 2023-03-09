@@ -1,1 +1,1 @@
-betty perm
+shell_permissions
