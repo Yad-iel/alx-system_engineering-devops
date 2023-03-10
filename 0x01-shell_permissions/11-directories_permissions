@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +x OCTAL-MODE 
+chmod -R 755 
