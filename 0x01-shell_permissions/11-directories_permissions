@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +x *
+chmod -R +x dir1 dir2 dir3
