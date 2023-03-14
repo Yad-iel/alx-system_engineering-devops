@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -type d -exec chmod a+x -- {} +\
+=======
+chmod -R 755 
+>>>>>>> e304ad9a6aa05058f77252ba3a171d23ae71c9af

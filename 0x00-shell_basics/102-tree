@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 tree -d welcome/to/school
+=======
+#!/bin/bash
+mkdir -p welcome/to/school
+>>>>>>> e304ad9a6aa05058f77252ba3a171d23ae71c9af
